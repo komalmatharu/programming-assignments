@@ -2,13 +2,16 @@
 
 The programming assignments in this repository are a collection of Python assignments to showcase my capabilities with the programming language. 
 
-Programming Assignment 1:
+**Programming Assignment 1:**
+
 Coding the provided pattern displays proficiency in using nested loops, pattern recognition, mathematical logic, logical thinking, knowledge of basic Python syntax, problem-solving, and visualization skills to systematically generate the University of Arizona logo.
 
-Programming Assignment 2:
-This code utilizes a graphical library (e.g., DrawingPanel) and understanding its functions to draw various shapes, including rectangles, ovals, lines, and arcs to create a turtle graphic.
+**Programming Assignment 2:**
 
-Programming Assignment 3: 
+This code utilizes a graphical library (e.g., DrawingPanel) and displays an understanding its functions to draw various shapes, including rectangles, ovals, lines, and arcs to create a turtle graphic.
+
+**Programming Assignment 3:**
+
 The 'gibberish' function in the provided code reads the content of the file "english_text.txt" and applies specific rules to transform the text. The transformation rules are as follows:
 
   1. If the character is a lowercase vowel (a, e, i, o, u), "egg" is added before that vowel in the result string.
@@ -17,7 +20,8 @@ The 'gibberish' function in the provided code reads the content of the file "eng
 
 The resulting string, after applying these rules, is printed to the console. The code demonstrates proficiency in file handling, string manipulation, and conditional statements for character-based transformations.
 
-Programming Assignment 4:
+**Programming Assignment 4:**
+
 The main function reads a Sudoku puzzle from a text file named "x-sudoku.txt" and checks whether it satisfies the requirements of a completed Sudoku puzzle. The program performs the following tasks:
 
 1. Display Information: Prints general information about the program's functions.
@@ -39,7 +43,8 @@ Info Function: Provides general information about the program's purpose.
 
 This code demonstrates skills in file handling, nested loops, matrix manipulation, and functional decomposition to validate a Sudoku puzzle against specified requirements.
 
-Programming Assignment 5:
+**Programming Assignment 5:**
+
 The provided Python script utilizes the Pandas library to manipulate and analyze a dataset from a CSV file. Here's a breakdown of each task:
 
 **Task a:**
