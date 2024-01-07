@@ -1,6 +1,6 @@
 # programming-assignments
 
-The programming assignments in this repository are a collection of Python assignments to showcase my capabilities with the programming language. 
+The code in this repository is a collection of Python assignments to showcase the range of my capabilities with the programming language.
 
 **Programming Assignment 1:**
 
